@@ -64,6 +64,10 @@ a {
     font-weight: bold;
 }
 
+a:hover {
+    color: #063D1E;
+}
+
 a.externo::after {
     content: '\00A0\1F517';
 }
